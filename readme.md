@@ -16,7 +16,7 @@ required for using it.
 5. Run `mv .env.example .env`. This enables your env files to set your app into local mode.
 6. Run `php artisan key:generate`. This generates a secure cipher key for encrypting your data.
 7. Run `php artisan serve`. This serves your application to the browser. You can also use Homestead, LAMP, WAMP, etc.
-8. In a new tab/window, run `npm run watch` in the same directory. This compiles your Vue resources, and automaticly runs whenever you save a file! You can also use `nmp run build` to do a one-time build of your javascript assets.
+8. In a new tab/window, run `npm run watch` in the same directory. This compiles your Vue resources, and automaticly runs whenever you save a file! You can also use `npm run build` to do a one-time build of your javascript assets.
 9. *Hack something great!*
 
 ## Roadmap

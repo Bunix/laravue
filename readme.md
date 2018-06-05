@@ -1,4 +1,5 @@
 ## Laravue - a sensible starting point for single-page apps
+## Note: The vast majority of the functionality of this project has essentially been added into the Laravel Framework's scaffolding system. This project is no longer continued. See Laravel's website for more information.
 ![Laravue](img.png)
 
 Laravue is a fork of the Laravel framework. It includes the vue js
